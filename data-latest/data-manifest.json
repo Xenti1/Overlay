@@ -1,631 +1,631 @@
 {
   "version": "2026-02-11",
-  "created_at_utc": "2026-02-11T14:53:04Z",
+  "created_at_utc": "2026-02-11T16:40:45Z",
   "files": [
     {
       "path": "exports/champion_winrate_minute/16.2/EUN1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUN1/BOTTOM.json.enc",
-      "sha256": "35369fc4b9908557607d00d699df729e517858f3355a6e69887c6cd420572fc7"
+      "sha256": "4a331058ea2bfdea51fac44de837452b8c2b629c416ba181dad487a708dfc8ed"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUN1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUN1/JUNGLE.json.enc",
-      "sha256": "b508c99bdc22a2d01d211b20d1ae6741c349694c5b64a4fa9992efc67b237d10"
+      "sha256": "fa610ca2f6d9194a38016ace92ed198276588329dc3cc3c291172f554c9f5d55"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUN1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUN1/MIDDLE.json.enc",
-      "sha256": "be95ec227718e868dc0b219839a0363f5df1e6302e91a5b86afe2a5e888379e2"
+      "sha256": "75d5c2631de1bdb036118f40b6a40919283453ea2ca4f4f2eb27deedf0d3b4a5"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUN1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUN1/TOP.json.enc",
-      "sha256": "cb868b6f201a178a271686370ef5714f855e1a8c06832cfdfc2dc1c941797e32"
+      "sha256": "a5d45c53cb622bc3db46e848344db8d1338820ff6549542bdab9c0acc138953e"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUN1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUN1/UTILITY.json.enc",
-      "sha256": "c69129a79fb16de6b43e444d579c4d5248897d5d94228d28c7e083ea8fb86157"
+      "sha256": "62d9880fadf5f9247b306426b4b41721cf3ac0792b8ed1cbbbc93b54158d47a5"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUW1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUW1/BOTTOM.json.enc",
-      "sha256": "79522a671104b8e51dabcfb64157aed7038ddff0b7d07295ba9476138d1a5a02"
+      "sha256": "e46fd6bd532d6d561fd4415d254aafdb20b60b215cdde53a47abe82a6c1e42c3"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUW1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUW1/JUNGLE.json.enc",
-      "sha256": "be37d1c1e22ac914bcd7078b92f4726e5ef43798e04d93984565c37d5788b045"
+      "sha256": "a146f9ba2256dfbb2f649d298ab7674a9deca1f383f0ac1430e3127db6f1e676"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUW1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUW1/MIDDLE.json.enc",
-      "sha256": "d619a980027bf620d56455ecdfe3e7a53f0cf850dbe696c682bd3cb91afc34ac"
+      "sha256": "27994cf9db19183bb3ee763ec56eb22e139ad229d0bc1a3cf30ee2d352359dc4"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUW1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUW1/TOP.json.enc",
-      "sha256": "9ac972c9945d0efd03ba897d9f403bf91bfd65d1505e6d00e67b5eb62c89eb55"
+      "sha256": "784a452427cc26d8ebde087d0eadd5e7199c4df3288af566e461027cacfcf8f5"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUW1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUW1/UTILITY.json.enc",
-      "sha256": "26c143c91d6ac98956d16f29e097f3230f4975145ce77e383486e4f4f26e3d28"
+      "sha256": "5bb9186c0dec2f618738c9af1f9c0bc0c25eb54951896bb1f1d8882c15fe7a91"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/KR/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/KR/BOTTOM.json.enc",
-      "sha256": "b9d65573946f56d28c5843f89d103a678bd80d6ca5bb0978336aa7de2cc23b26"
+      "sha256": "2a7914bd026435057becc05d8c579cb82a2b1d87582e94692c061e48419fc4ad"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/KR/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/KR/JUNGLE.json.enc",
-      "sha256": "c399879b60738178a98472d3614c9b98de180febca090cf423ab538fb1ec35a3"
+      "sha256": "2ffd94b13170ce5421cf5bfeb6d1bb12033f1b1e5f086dc5646ae76a4313c500"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/KR/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/KR/MIDDLE.json.enc",
-      "sha256": "2aa6a7e21dcf461c80e658f09222dd4991cd36053a0c4fd2cf234ba5792f1b0f"
+      "sha256": "ff6197f22c2a61a14db7eb3717aad935ce239863e2238a735f5fe9f504b33017"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/KR/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/KR/TOP.json.enc",
-      "sha256": "7695120560c7365c7ef0af9847b647309a79a5f6f6b5f505dc053695198a0bf0"
+      "sha256": "f33b8772097369489402a797b358ed9d7c4eb20ae564d5e0e31fe4e43a38204b"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/KR/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/KR/UTILITY.json.enc",
-      "sha256": "617bd39965e380264f6ea93efb7e22726fb92eb3d897af6916665a23912fe667"
+      "sha256": "97d0b7701394a4c2e1f9105d0e055036d1ee7b177682e47ad8dd085a67addc36"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/NA1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/NA1/BOTTOM.json.enc",
-      "sha256": "13a142babab98c2e3d47a193ac3f9858a51b356dd91919f7203ace6c839e3c45"
+      "sha256": "9ed430538f26c941a6b70abd98b6aed9e679cb695fb7b8d0e8ce1735b3b6d125"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/NA1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/NA1/JUNGLE.json.enc",
-      "sha256": "58b0fb53b51d41aba8394c263414d5c612ec41e80322bc83e1d6c6c5bf9b2a0a"
+      "sha256": "2a3f8d9cc72874b6235b764d34e64c60744d9cbe11e8dba533dd7b8220915d2e"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/NA1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/NA1/MIDDLE.json.enc",
-      "sha256": "39896c2d2a343a82834e51dc390b481a6c9d29e69be8836ab303ba6528a748c4"
+      "sha256": "76232902bbaf0c141a47fe557ce5518c8f446a700596a975c9909c3551e2892d"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/NA1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/NA1/TOP.json.enc",
-      "sha256": "cbdffb5b2e621f2d77ae37257a350b19cdd7f9959e1a8edaa8678bd0ecd5551f"
+      "sha256": "08eae88dee398f593dc9517700ce369c686aced27c2c368299ebe071a50ffcee"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/NA1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/NA1/UTILITY.json.enc",
-      "sha256": "cc94f79143e39cd737d0c82d9af96b8133ee1b4e14d33f2c6a300bc7fe6eb738"
+      "sha256": "8f6c6457bc30246c4d202512c9e3c96b2b0b642b598baf544c769f94f3053233"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUN1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUN1/BOTTOM.json.enc",
-      "sha256": "50dc41fb5283c530024c034fa4535fe4517c363759b595b71d613554085bdd07"
+      "sha256": "ce02932c95e4b6cbc32d88472d2a7e7a93cc9f84e8467bdfbdbb134e87672417"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUN1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUN1/JUNGLE.json.enc",
-      "sha256": "fd5fb4c9b85e62bb91884007f7ce9351917886a43457e3356859279293aa6e32"
+      "sha256": "7ec526276bf4513104f97d32500c25abd53ae67847b9f1cbdbc1e6096f7c635e"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUN1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUN1/MIDDLE.json.enc",
-      "sha256": "637ee1413ae368095232e1877a80c4ff9539c03d4c0dacaa8d747bbc7268d3f6"
+      "sha256": "74f475a6aca70a67911d4d64692969c5bca1c5a0f1576468fb0aed73478299a8"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUN1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUN1/TOP.json.enc",
-      "sha256": "d636d7c5bdcf9534a5b42f8d909a9a02c9592656c6a35d0608a8117470ad5787"
+      "sha256": "3b36a6711017a23ef5e44043946bb199b2079d14b8b5dc78481cbbfbe7f09b90"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUN1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUN1/UTILITY.json.enc",
-      "sha256": "882f500a97e4d2520ff69e32442b11f222aa954482523241758036066c88424f"
+      "sha256": "48564a0a13aca77a99cc6934a80ee4679cb336d4baed7d83084c599fd832d20b"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUW1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUW1/BOTTOM.json.enc",
-      "sha256": "ef583d9172e32d0b8b8faa7a57fb6e72c2ca3f2d07797a54649644c87f76abf6"
+      "sha256": "b8ac17118d57cd2a18f931d74061a73ffe37480e5aa89d2e6296a6c92ab978e3"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUW1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUW1/JUNGLE.json.enc",
-      "sha256": "518e05c1641c2368ce3d22999f56dcb2f1f78f23d1170736439f2309dff9820f"
+      "sha256": "b91b08d0ef68a7d0b87c6f1d5e594eb6e7ec4d41cf9450136900d31fa25fc520"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUW1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUW1/MIDDLE.json.enc",
-      "sha256": "e3b9a8300baee713cff92a2876fae969056a73133228d1599c4c1b8cb1cfad65"
+      "sha256": "7959a16e3d2556d53b98088dc0fc04274763f1f1482defaeb101fec152812ab0"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUW1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUW1/TOP.json.enc",
-      "sha256": "40ea755fd11f1014f467ba4c83adde7df12d77229ff4abc7432838af203cd367"
+      "sha256": "be146b2623e677765cbb660063505ba58bf87364e10f5f1228eda964bc45e000"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUW1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUW1/UTILITY.json.enc",
-      "sha256": "e2878533b03dcc94311ccc5b258b59779e8a70a277e467df5c7caae7e5b901b9"
+      "sha256": "0c4f5a99784ab12d83e286616bc4b4b149e6d79885b37d01ef083a53d5a77d85"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/KR/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/KR/BOTTOM.json.enc",
-      "sha256": "92e6014411f93b52cb62c5252b8ef01072b5c76ab7e8c9a5e7e4e0912121aaa1"
+      "sha256": "6ba5eccc10d2d33f8aafd41c935418ee02017f41ddaad9167c2547594b111c08"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/KR/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/KR/JUNGLE.json.enc",
-      "sha256": "bd26aed25eb0220f2ff0a66c04eb1fc880ea13a45a36b8d11ec3beb7a92e49df"
+      "sha256": "0449ab7f56dee575af9684f5f44e0fa9b05e8952ccedcdcbd1af62f760bb84fd"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/KR/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/KR/MIDDLE.json.enc",
-      "sha256": "33a47de6de223065aa3dff004549c1f9a66bbabf650b01ec20b765eae2754004"
+      "sha256": "609f1277ea417a9c7d091818ed2d137e938f20434d0a11fa463942501a44c649"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/KR/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/KR/TOP.json.enc",
-      "sha256": "f84cdf92e86e1dec64d322851f7d1e7cc62d48b9a33674ad4576888460d8fa82"
+      "sha256": "607df896c5a96beb45779eeb37e013e9b0a0a3825298a879fb5e914ce8c0a953"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/KR/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/KR/UTILITY.json.enc",
-      "sha256": "5be93db054a0544f2c8a211c9fe1465ee6a3332fbcaea4c876e7565b6b33a715"
+      "sha256": "609186cd306ec27adceff15ad2d75a19768e0ecb965e59eda5d77814bffe81c0"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/NA1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/NA1/BOTTOM.json.enc",
-      "sha256": "76d1a1538a4deb86e10438307b9409323d22f4cfdf85c965e4834c41608de3ae"
+      "sha256": "4e3e9f1d7be37a7b38630b60ccdb3a02b5ef7bf416d944347771f5e205ea70f0"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/NA1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/NA1/JUNGLE.json.enc",
-      "sha256": "24043c678caa840216efc69738313a215f1e6eeefddea39d2fd10a0527262165"
+      "sha256": "69a25f77432394b367b093971d92bce141d1d13e8840fcc7690689c2aee76cdf"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/NA1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/NA1/MIDDLE.json.enc",
-      "sha256": "6e84bbe2eb00113afa359ac780be556163dd427d4cc6c21b24493410fb5b0add"
+      "sha256": "a7002207bdecb084e7cc859c0635d2f4737e67c942079462705d4e9365633eb5"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/NA1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/NA1/TOP.json.enc",
-      "sha256": "19eaf3b9d70077b36c34953618ef50ab411316532c49c6eddc72561cf3af4f5a"
+      "sha256": "b1cbdd7e49561013b7890a5fc6255c455a86a468f4f19b433773844e21c29718"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/NA1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/NA1/UTILITY.json.enc",
-      "sha256": "59baad445182bd25d56341308a3377b82e336f25beed09b568156bce498aa37a"
+      "sha256": "2c6cc30f6e37e1d7c463313f51eb7d914d9f82c873cb587b0b76388121fdcb0b"
     },
     {
       "path": "exports/matchups/16.2/EUN1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUN1/BOTTOM.json.enc",
-      "sha256": "a15d2c9c8d1f611fba5162d498126befc0ae3b38134626207c50e0c597a4d0a8"
+      "sha256": "07f8cc1931799c16c584075b12913e96ea487fa24ce6aa08f6c1cd1038cada86"
     },
     {
       "path": "exports/matchups/16.2/EUN1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUN1/JUNGLE.json.enc",
-      "sha256": "a09752c5c3ad15b452a9e303be207d017b583d68d255fd5b8c3ad92f96063180"
+      "sha256": "bddca1f3802148d8b931515ed697c22e92909ebeb2f51266f211cca38d3f83e7"
     },
     {
       "path": "exports/matchups/16.2/EUN1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUN1/MIDDLE.json.enc",
-      "sha256": "9537e3f8ab875057269202c406b939f11ac4fb7461c149ba323c5e5d0fceaf8d"
+      "sha256": "6fc3ffb85bb80f8e601400c1f4f61be99f61684fa7cde219971596234cda3861"
     },
     {
       "path": "exports/matchups/16.2/EUN1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUN1/TOP.json.enc",
-      "sha256": "a234fc45d2400f39318380230832ea51603a72c66e421825929e19b26a481b81"
+      "sha256": "7a94b696f4bdff408b51ca4f6be6c087f76484c3dfcdf90e8f34e127d10e19f6"
     },
     {
       "path": "exports/matchups/16.2/EUN1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUN1/UTILITY.json.enc",
-      "sha256": "f68f8e4099c4d207902bf706fb68aa07f1b1e5f3db719c15f88a21c9b4d45e3e"
+      "sha256": "12ccccd8414e29b2de42896dc89494ea4bdcd9efb47187df221fe7252ccc77fb"
     },
     {
       "path": "exports/matchups/16.2/EUW1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUW1/BOTTOM.json.enc",
-      "sha256": "475cac1d611d97a8681062a9a418aeb47cd2b208a971c31438d6508fa0378326"
+      "sha256": "63dfa0312900383be2d8d858ec31bcee12966d0dd1d395410c6a8ae34db80698"
     },
     {
       "path": "exports/matchups/16.2/EUW1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUW1/JUNGLE.json.enc",
-      "sha256": "0333ad4ba6fca66df8524244383badb54373dbfcc0cb2c8cb6098c800df2821b"
+      "sha256": "5fe901c239774d01b916451b9ff097eb0a762e93e9951b9955adf5ecfe3e578a"
     },
     {
       "path": "exports/matchups/16.2/EUW1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUW1/MIDDLE.json.enc",
-      "sha256": "7874f22584ff708c50ac72332fe8f1f47c407de37e313a22f7dd8a363bb8f653"
+      "sha256": "c619e4fe78cec56ec123f4c69d3024a37f0581e839e6fca59a9dee3df0b6458c"
     },
     {
       "path": "exports/matchups/16.2/EUW1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUW1/TOP.json.enc",
-      "sha256": "124ed9a3835ce09a1dc91224129f4d74185e7e4ae7f72f89aeac6128430aeff4"
+      "sha256": "61d2c82e070986ab279b3a17d7a7cc4e5f83cbc57cca0eb8def241bbcd1d9a4b"
     },
     {
       "path": "exports/matchups/16.2/EUW1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUW1/UTILITY.json.enc",
-      "sha256": "7a8fd6259c4195136e897e5844927cf68e899fb760f757c32b31ee2ffbccf885"
+      "sha256": "b2221ab0afc491958f6ce723943b2627971deaf405f2030253a0af6333c5b63f"
     },
     {
       "path": "exports/matchups/16.2/KR/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/KR/BOTTOM.json.enc",
-      "sha256": "9daafc5d6954a2c340e71a5da08339623cfafe7fdb38580e687068abe3023a8b"
+      "sha256": "9deab1957d801253ba950fd57f271d6c97e8cd8544b45f50c4ef9371196a99c4"
     },
     {
       "path": "exports/matchups/16.2/KR/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/KR/JUNGLE.json.enc",
-      "sha256": "ab76440c65dadd7c06ed1ed8793a026ab6da32575b4fa58a22f7152f9e8423e8"
+      "sha256": "d86f7defa667eab43616f677007fba3c1b018dc4c88551505c6f37fdc97a8496"
     },
     {
       "path": "exports/matchups/16.2/KR/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/KR/MIDDLE.json.enc",
-      "sha256": "4936f74da3f99b9f7203c6bbd04293b629570ebd5e0aac2c516560ef91b26916"
+      "sha256": "ec8ff45eaa640367a3c3689298a08446e39dd62011fc51fa5546c8463fa9800f"
     },
     {
       "path": "exports/matchups/16.2/KR/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/KR/TOP.json.enc",
-      "sha256": "dc45362f8de97454f3cd046df478639b440f597fde3fe149a246f534783807d7"
+      "sha256": "212a45b933dd74249cf8690f0ec0ffb2216a6217987bd23f2719cc6fd06da7d5"
     },
     {
       "path": "exports/matchups/16.2/KR/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/KR/UTILITY.json.enc",
-      "sha256": "840161ff81dff50c7454db01b3b902128bc8f1f45f8a0efcb76dd54671b0c924"
+      "sha256": "d7e9ccd952d810b7cbd5de9b969d18f8b22cffb7e0b6417b522afe3409bdc983"
     },
     {
       "path": "exports/matchups/16.2/NA1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/NA1/BOTTOM.json.enc",
-      "sha256": "2b4dee29177c9d14a65f7820d8b4e4e31003604a2bfb60cbe21e29aac1938300"
+      "sha256": "dc8cbf4c85dd198aeab624c19ce0200c06a5c81f2518ef8a5e5cf177e25e472e"
     },
     {
       "path": "exports/matchups/16.2/NA1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/NA1/JUNGLE.json.enc",
-      "sha256": "927838b9ee55e26534e3690e21a43cc19484c44af961c747158994552da01457"
+      "sha256": "3e94aeb9ffcc7b5641b72d95ec69443d78ffc4b25036079f43acd9dbc356b99d"
     },
     {
       "path": "exports/matchups/16.2/NA1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/NA1/MIDDLE.json.enc",
-      "sha256": "910a23af87b3266116798073c48fb339d8632ff2a9fd9ba33b2f492a64e2c0af"
+      "sha256": "97354988bf98d5edcf51689f7d8b59b7cbc30332df750a354ae94afb791f76a4"
     },
     {
       "path": "exports/matchups/16.2/NA1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/NA1/TOP.json.enc",
-      "sha256": "16b07a54698922992d152b90a576e8d5435f1a9e1c822066307b70194033ce2c"
+      "sha256": "234db2ff43b1ddca269a02a930b4d2c07f5c8129490d660cb1e479705cf80271"
     },
     {
       "path": "exports/matchups/16.2/NA1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/NA1/UTILITY.json.enc",
-      "sha256": "309186c55cf32a475a127987a27b10d0dc10eae8f1b9839d1a9ba9cb7ce4e346"
+      "sha256": "722b36fa98a359027920a8f00c05322a5f35712c626903afdb42ea47b67feba0"
     },
     {
       "path": "exports/matchups/16.3/EUN1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUN1/BOTTOM.json.enc",
-      "sha256": "9d3493233f814f9849f9b312f0464850346acea3dcf16b3223ba3b5323e71b26"
+      "sha256": "19d2d6005d54713144f82ad8e7e301782c656121658b4ec9ff601f265378f277"
     },
     {
       "path": "exports/matchups/16.3/EUN1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUN1/JUNGLE.json.enc",
-      "sha256": "649a18c91981c52a83f247cb8e845f6026bcd743cab17cf681438747066342df"
+      "sha256": "7b939b328b6450781aac68a415c8da04a0a1409e368273a211dcd3e6449fd1ab"
     },
     {
       "path": "exports/matchups/16.3/EUN1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUN1/MIDDLE.json.enc",
-      "sha256": "a2c81271c27c1eff68dd2dbc7eb5b7558eb26d7017b4d68ad661ebab81254f54"
+      "sha256": "ec993536ddcb2bd3190f6d7dc83f43be29cb522acbe95dac92fd3f09eae1501b"
     },
     {
       "path": "exports/matchups/16.3/EUN1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUN1/TOP.json.enc",
-      "sha256": "c1d9a616458af52e9509a8810697843a09fbbedeb838aaa220b97c0e3a03c006"
+      "sha256": "51f927deb9aa65754ee4475a92942b36e4e1b4aa8bd4b4cd32c853d4b619102c"
     },
     {
       "path": "exports/matchups/16.3/EUN1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUN1/UTILITY.json.enc",
-      "sha256": "0e58a392521f8e300a3650444813cab2c53c5d11f69bf6557d42221b1a708956"
+      "sha256": "9ddbeea7f14f4dcd7818119617ec782f6607f1ba76a7080bc9618f3148aca8e3"
     },
     {
       "path": "exports/matchups/16.3/EUW1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUW1/BOTTOM.json.enc",
-      "sha256": "35289cd80a14ed87205e02eadc8b29d626243e840f5450b8188e72bc5f72f8e7"
+      "sha256": "a1ee304a8aaa569b80cebcb474b9c5be15f642aea57910ea1db2fd9fba23381e"
     },
     {
       "path": "exports/matchups/16.3/EUW1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUW1/JUNGLE.json.enc",
-      "sha256": "db1b00ef9b648f03dc7bf484bd85ba68991a593c45b883beeb6169bf57597fb5"
+      "sha256": "d8efa184cf4f3f8f8af2b82eb03364c49a360d806c9648dba39cbebaf7b4c88b"
     },
     {
       "path": "exports/matchups/16.3/EUW1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUW1/MIDDLE.json.enc",
-      "sha256": "577821cdc08e7e01f83ad12060b91190022b83cf8fe79cc56715d4f3126ff8ab"
+      "sha256": "d4a54556dabb3aa27b43e2f5b36b750c905cb83b85fe3b5027edb3717b5ff2df"
     },
     {
       "path": "exports/matchups/16.3/EUW1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUW1/TOP.json.enc",
-      "sha256": "3bbb2ce08ed30c68d0ba08e4d3883309905223dab2b55e8eae0e80de5afb94c9"
+      "sha256": "c7df6ed3942b84fa3e7c5d9b48949a83547cdeb50a630101fd7e19cd8f42cc08"
     },
     {
       "path": "exports/matchups/16.3/EUW1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUW1/UTILITY.json.enc",
-      "sha256": "18dccd7cc199709ab7671314e376f25dc8f1be16c4e83978964a5231eb47bade"
+      "sha256": "53451d37e8e9bbdf513a9b464ebf66d30f088ee44193aeeb99c62160a29646ba"
     },
     {
       "path": "exports/matchups/16.3/KR/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/KR/BOTTOM.json.enc",
-      "sha256": "c1450a98057b72f5888caaf433b6a102763ad1aaf9022ede76dfff48815a9559"
+      "sha256": "1611bbf6eac17573e52dc283da58c6a03b7761cec26eb29f46a3c23a50852909"
     },
     {
       "path": "exports/matchups/16.3/KR/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/KR/JUNGLE.json.enc",
-      "sha256": "88483ba6bd017d7423add1ffabee2572431ead444c775f54475bae1d3d5455cc"
+      "sha256": "64183795cb76ec9f2b38b4caaf377e5f787f1389a8777840a332663f7be70fc4"
     },
     {
       "path": "exports/matchups/16.3/KR/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/KR/MIDDLE.json.enc",
-      "sha256": "d13a831c6fb5ab6fed28fdb135891d70c36a773433f7141e3951b2c11bc00d81"
+      "sha256": "c765e8eb8fe8b7ec4738a9a2932be59fbb5a4ab1460f157bbbec0b6a72bda396"
     },
     {
       "path": "exports/matchups/16.3/KR/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/KR/TOP.json.enc",
-      "sha256": "4a5e56ae4c8176bf14e8e4fe612c556ae5766741f5fe5fc3ae86ccfd061ffd6e"
+      "sha256": "5cfba854644a2faf36de082242dd46f592316d3ad957070eadd2b3e3c787f536"
     },
     {
       "path": "exports/matchups/16.3/KR/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/KR/UTILITY.json.enc",
-      "sha256": "ba134b1152fdd6dba4df29d12969e0e45266ffb2f900b32db48217f9b5092d75"
+      "sha256": "85d3a96b955fe2df92748347c771486fa789fe0e85db182e79cdec8020ce1ff5"
     },
     {
       "path": "exports/matchups/16.3/NA1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/NA1/BOTTOM.json.enc",
-      "sha256": "b5db298b5ff099346b55dbae81ab4a77ecd07047d9d35577f93d684a0ae00944"
+      "sha256": "45389a73a6f1e6f691330e50a499d2029394b248f6eac4f35d675e9afcece2ba"
     },
     {
       "path": "exports/matchups/16.3/NA1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/NA1/JUNGLE.json.enc",
-      "sha256": "247377405b6d9d7fd19099a9f86fa6a5da7c1bd00eb5153780b9a72d71807f06"
+      "sha256": "7c9f1ca130bbac7a49d4bf99e91c7ea567b1328e1a20eb02e7f20330b78f39db"
     },
     {
       "path": "exports/matchups/16.3/NA1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/NA1/MIDDLE.json.enc",
-      "sha256": "f49e17f093b2d2f54129474a56320b540136600318f53b1a17d286bad5c4062e"
+      "sha256": "0fc2030987d6d4b551dc6c06b96a14fff72d3eb34975d6954b10386ccc28d051"
     },
     {
       "path": "exports/matchups/16.3/NA1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/NA1/TOP.json.enc",
-      "sha256": "912dd205a77954dff844795da3317ee715de075ef38b55d26cd8e07aabb3b7f0"
+      "sha256": "71fc613d2995c92637ea865bfa63a3e58395ab129c118e2fc92336d4a825b55f"
     },
     {
       "path": "exports/matchups/16.3/NA1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/NA1/UTILITY.json.enc",
-      "sha256": "1875bcd5f07e5cfe55f57909159242aed21cc32dcc68a9eee59ae20b5ffbdfa3"
+      "sha256": "f84ff8df3d55ae39cea7d6a195857760774431d9f1e19946c97647e21b8f5216"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUN1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUN1/BOTTOM.json.enc",
-      "sha256": "6ff6d1feb23c6344e9f213a2bdaf39634148158de05d8c0cb2d565a9a5a755c7"
+      "sha256": "43b7ec696b7bb638befd2573e0718cad2e689833ca04e998f0ff2590b09d6101"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUN1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUN1/JUNGLE.json.enc",
-      "sha256": "ec6f73175b349307696e889199e8b3a0ba5ddac4d6c6cffcd95c706559d7e85f"
+      "sha256": "d5ea9e63483ddeb777f3ea888af1575cbf2130ecf8a4f2c753c3d0b83ac6a413"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUN1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUN1/MIDDLE.json.enc",
-      "sha256": "2bb6bf1c93dff04d106039c9f47543c1443726c5f88783148babbb06c5572cde"
+      "sha256": "e74433312440ee06b0c7a884a2cf581b17a2174ab125150ab2129d348c0bde99"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUN1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUN1/TOP.json.enc",
-      "sha256": "9e9e5af822632236fb1c221039c6fd4f0c38189d74795b02b4d63345a63a2438"
+      "sha256": "46b6c96fc17a3f9804cfd9c6f75499f59df9916f505270d4c385d67597cf6228"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUN1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUN1/UTILITY.json.enc",
-      "sha256": "1df401b94667787fa27ad01ade17599f15936745b7fd13bf0310e7006c036ac4"
+      "sha256": "e64e59138da6d4d07afb458c2ab0d16ea37f06379c0c1c1815122da7cece0d9a"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUW1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUW1/BOTTOM.json.enc",
-      "sha256": "3ba87c044d22c64acc82d31871e600968efb5adb77cad66cca1ac14a7a1bc517"
+      "sha256": "3708823e8b2bcf14ef780947cf29df497776b787fd1499b3ff8684989f491765"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUW1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUW1/JUNGLE.json.enc",
-      "sha256": "b0201c5b492a9bd47e69265830a89e5d61742ed36e16c8d04811399811f19c9d"
+      "sha256": "5bd4aa930a2c4e7147abe9fa4990b617f6e8c26910c8425e62c7ed4458f8c5b0"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUW1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUW1/MIDDLE.json.enc",
-      "sha256": "92eff16e42235338fd38b2d5ea755f8756ba9892d6b1610e00e2ea1d36c85e7a"
+      "sha256": "7061d768ac4cca5a5e230d1f7296e921e9d320c443265f47b546030f906ce331"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUW1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUW1/TOP.json.enc",
-      "sha256": "ea1470176cc615b87ed283ce98df0b12218fe77dcea2aa000f714c664f36ee9c"
+      "sha256": "523081d5cfc7aca838c093710814d272fb0d48bb1dd0248e5fa4504ae04176f5"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUW1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUW1/UTILITY.json.enc",
-      "sha256": "b961611848f0db7f061effe513023f6ca3a90c89a8f658073edb5e937fb392da"
+      "sha256": "5e22d6b7914d1a8933c747b436b60b96d7469680b0fefd4358819d1ebeea7163"
     },
     {
       "path": "exports/matchups_gold15/16.2/KR/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/KR/BOTTOM.json.enc",
-      "sha256": "c08e467a1b925e966ae36278efd62cc3ed74a9bee6434f1dff13408998d2d7b9"
+      "sha256": "973ae20f6d55fdf6d959848f614638cd983b8f930f6bb14190285ca3226fdee8"
     },
     {
       "path": "exports/matchups_gold15/16.2/KR/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/KR/JUNGLE.json.enc",
-      "sha256": "bd9147b470c9d1429147a69096ad30fd39aeb66294fcb46d65ffb6d323dce3b4"
+      "sha256": "3128f151b2206d37fd5253743a001b5852be34e14aaebb20f0d61ed63c3243a8"
     },
     {
       "path": "exports/matchups_gold15/16.2/KR/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/KR/MIDDLE.json.enc",
-      "sha256": "0c49917a8ff30d6a2a0e043235bab7ca4fb8ba8b17b253f00ec99d31db2cfd49"
+      "sha256": "ad717fd8730f9a1843ac8883182b0ebfd2f99b9b74183889b07e8055938a24e2"
     },
     {
       "path": "exports/matchups_gold15/16.2/KR/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/KR/TOP.json.enc",
-      "sha256": "6d4309723ef22e888e71a172e261bb1cf59a99ff20f8479148937d13daf9e382"
+      "sha256": "8a763242a8cf572e7018c6f682fbf93bb256c1e71d3d1a9569111265b3bbb8b4"
     },
     {
       "path": "exports/matchups_gold15/16.2/KR/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/KR/UTILITY.json.enc",
-      "sha256": "42ec1b322a531b693fb82bc0a3a2bd8a9cd822f47a058e8399141a98bdbe9ac1"
+      "sha256": "1a081363cdc9ad228a579f2a1c743336a7dda9b0146778f0982fa3bbe26fa74b"
     },
     {
       "path": "exports/matchups_gold15/16.2/NA1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/NA1/BOTTOM.json.enc",
-      "sha256": "35440f8180f534c8e23ba7cffef4a6b1d17b9d7998ced7cf241a490e19659e15"
+      "sha256": "d679b87916d5a79d3da5c30c8577e7fd954e59468e85ed6501ecaca9df1eddc1"
     },
     {
       "path": "exports/matchups_gold15/16.2/NA1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/NA1/JUNGLE.json.enc",
-      "sha256": "ee585a5592f448e01412c05c212653442da795733ade87405b4263c5460982f5"
+      "sha256": "4e0e009ea21ca83a965d719d0334e2831a7460b40a5a0861dff44fd984519b26"
     },
     {
       "path": "exports/matchups_gold15/16.2/NA1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/NA1/MIDDLE.json.enc",
-      "sha256": "1de35355411fadbe818552272aba261683b4de4252f4e0981a743c620f0ad12a"
+      "sha256": "2843c15ae2a577079f634a4055381e55eb3f945d268340a81dda7a0c0e8e6855"
     },
     {
       "path": "exports/matchups_gold15/16.2/NA1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/NA1/TOP.json.enc",
-      "sha256": "1d46a75af79040af6d9a980645a75da960769b23986a2a89656bd4053781c02c"
+      "sha256": "eb866a14b05d5b9a9ab79a43a96b2946e9efe87fa41420cadb9d3b7b851e467f"
     },
     {
       "path": "exports/matchups_gold15/16.2/NA1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/NA1/UTILITY.json.enc",
-      "sha256": "6ce32cd2314e34d0c37e63dfd2450132c2383e11e55d1d90294dc77f63d7f120"
+      "sha256": "f463a00bae36be5ffaf58290e75a602a1f8d34139945c284782e5cc41d6e5817"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUN1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUN1/BOTTOM.json.enc",
-      "sha256": "29c8e5169c86ed7eec9892d1ad853dc32c777138d3b22400ced7310e0a0ef032"
+      "sha256": "a177764592ea2ccded5b4d8cc33220c89d3c9e4c7ff445d15b1cba4238ec07a8"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUN1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUN1/JUNGLE.json.enc",
-      "sha256": "455adbbd639b6425dafdd8528fb532cd50b5c26c87309a59bbefe3bc186d4f09"
+      "sha256": "10b9752519118d3b746bed1a958ed5135b6dc6a27d3a87cef52c301623957b23"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUN1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUN1/MIDDLE.json.enc",
-      "sha256": "ed311124662bb0826db958fdf2d123420119c2e60c20bedab9e7fc846c1ba962"
+      "sha256": "c02903677e4bd87bd0f62fe8aba346446255a1c5e78253cc25c0d07196dafd77"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUN1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUN1/TOP.json.enc",
-      "sha256": "5b32672b5290bc64c1d07178afc50a54b3540dc56e5471d17edc44a9a7f6af06"
+      "sha256": "5fda87c54633fc322d3285f44172828590d5cc752b4c8c768d46996e8a067794"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUN1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUN1/UTILITY.json.enc",
-      "sha256": "9a7b6fc85780da30d0ed289988d5c69653f8e62f19a0eaa606a49c351db1dc6b"
+      "sha256": "0a01a0decc2928b6e536fb03dccf14d80b5bfac8309b0b4dbb5a0aa86d560381"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUW1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUW1/BOTTOM.json.enc",
-      "sha256": "ab64f47562d502355691374cdb0a91125d530db9efa3f18b0da8d90a0f9c6612"
+      "sha256": "f8697a8c2b0639009622840ca224230612e4c10400022fe6fc1f183d4d54f9c6"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUW1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUW1/JUNGLE.json.enc",
-      "sha256": "2a9e2a5b391400d0e0b63f007cc284b333178a052eb6461cb580bd8f36f7fc32"
+      "sha256": "d19c367258aed71c2dd3fd2e6fd49b62ca4349f581efba5c33e835fa152bc8d2"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUW1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUW1/MIDDLE.json.enc",
-      "sha256": "97ca7dc1687a33007154cf2479e5478a7bd1461ab91cb844c16ee40b28964ba2"
+      "sha256": "bb4d347c1ffd2f1757e4730c338500e7e7c8880a2cc955b2281e37aac2b1db95"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUW1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUW1/TOP.json.enc",
-      "sha256": "4df4c03bfbcc1ed10e71baaed70597048544486e0b62a76cc7c3a156ab9ad3d7"
+      "sha256": "4deda9a183c58487558c63b14d6bf54b0613065495065423754d7fcab9caefca"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUW1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUW1/UTILITY.json.enc",
-      "sha256": "b34f8fe33830f7b1ffc68e2896a53c6db45ed600acda980709b69706fa0cc515"
+      "sha256": "43d8ea5c2b2226651668bf9ad8ad2e3ddbf4aac9f74f7ea8d257c1f0f0089eec"
     },
     {
       "path": "exports/matchups_gold15/16.3/KR/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/KR/BOTTOM.json.enc",
-      "sha256": "26baca7675489bb085ae807dc572e7bf0744010d0361dac955df2cc423154e19"
+      "sha256": "6843828e153cdb912aa40c1ce7d30f22ebfb556ca66ca8c1f28a69ad04ae911c"
     },
     {
       "path": "exports/matchups_gold15/16.3/KR/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/KR/JUNGLE.json.enc",
-      "sha256": "d003ce0c339427f065faedb292fe8d752c3d4ee2d1e111986be975807d6b6945"
+      "sha256": "c6928a24cfa12744a4a848f882ad66b8380e047eab960ff602f82f154716fede"
     },
     {
       "path": "exports/matchups_gold15/16.3/KR/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/KR/MIDDLE.json.enc",
-      "sha256": "073ea2cbe9431408e8f240cdad46bf7a39d3c19f0683b1b6b2e11a1b0d4a4257"
+      "sha256": "e453639876f865d57b10d3847cf645a24d1b34a190b8530142b0f6010a41508e"
     },
     {
       "path": "exports/matchups_gold15/16.3/KR/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/KR/TOP.json.enc",
-      "sha256": "ef342521e559f776d86b14bc5f1456c59751f0ed20166de2525d1b5209ddd698"
+      "sha256": "298c21a44e88673456679f43c208d0ae86ed3e7de853d164d4acc427e0dc7e2b"
     },
     {
       "path": "exports/matchups_gold15/16.3/KR/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/KR/UTILITY.json.enc",
-      "sha256": "5eb87994fcab7a486cf795c9d6698f7c4f4d668e5db385c486587650073683ae"
+      "sha256": "0b8a7c86b922845d11cdd8557940f66ef14e865c111be1f8881505ac3fc65b05"
     },
     {
       "path": "exports/matchups_gold15/16.3/NA1/BOTTOM.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/NA1/BOTTOM.json.enc",
-      "sha256": "cc033bb98157eb8b0573dd4e9ad3587da3b6e9f33a8c8a7c6f37bc90545f5034"
+      "sha256": "55e8b28662ffd9641656f10419ce2034b0df8d791b1507401cde70ff79d40a23"
     },
     {
       "path": "exports/matchups_gold15/16.3/NA1/JUNGLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/NA1/JUNGLE.json.enc",
-      "sha256": "b9abe4a44b621ddc416f478b005f4e1fa4914e41124db499545b96c8975cd9a7"
+      "sha256": "e1a42d7d239082cd237537051e129a63d27130e202f21f368126347ed7897ca7"
     },
     {
       "path": "exports/matchups_gold15/16.3/NA1/MIDDLE.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/NA1/MIDDLE.json.enc",
-      "sha256": "c625961da7cf6e2f94e12cdf08c4b8869420b68edd7bbf157e3e9e3f9a370977"
+      "sha256": "9d6361ae46d28f6bdc52d453edf540e252f57fab31a4ffd60f21344840fa88e8"
     },
     {
       "path": "exports/matchups_gold15/16.3/NA1/TOP.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/NA1/TOP.json.enc",
-      "sha256": "9d5d4c7640637d8e3071b4e6b27547a48428f778e10c5fcde5bc92a7da6e4984"
+      "sha256": "cb4e5341b41eae6eba9467ce26f3a68057e5aef2df8e51a706efae86b6494995"
     },
     {
       "path": "exports/matchups_gold15/16.3/NA1/UTILITY.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/NA1/UTILITY.json.enc",
-      "sha256": "82461dfaaf1da7b007786bba369a6327035dd549ce30772867b37697179d4af8"
+      "sha256": "0c5b311fcdf8dbe26edf6dac4f2698d5b2413cc0eb130d876f71cb653b57a02b"
     },
     {
       "path": "exports/models/power_model_16.2_16.3.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/models/power_model_16.2_16.3.json.enc",
-      "sha256": "f3ae893e1d66aca1e8d5608e22f7261332ad88dc89c4ac8ef68bda5c50431c38"
+      "sha256": "98596a611e6f8e2d840937d339871c6707cb2dcaa2604f5cd385ce28e346a74b"
     },
     {
       "path": "exports/models/power_model_16.2_16.3_aug.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/models/power_model_16.2_16.3_aug.json.enc",
-      "sha256": "a098a20911abef7315822b5aa891cf17af7e40ff02b73afe94b2b72122c63ed3"
+      "sha256": "1d7ca43fc2506752a0ea5c5c6a97d1abfce6857466bcb1c79efe517e3371b7ce"
     },
     {
       "path": "exports/models/spike_model_16.2_16.3.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/models/spike_model_16.2_16.3.json.enc",
-      "sha256": "b9d490f880aa887e8bda55061cc4a2b7c34b56e76af1d10d17ad963bdc5f69bc"
+      "sha256": "90d175ba1f66afd146b604956e31aa921b1203f02d73240f90b0d9f5cc368a8b"
     },
     {
       "path": "exports/rates/ban_counts.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/rates/ban_counts.json.enc",
-      "sha256": "c98776529e0a7c94f1b8bf6eda4ae2dbd44fd79ac081bf953c38e28683cd61fd"
+      "sha256": "e6484dec439be72dd2055cb990f65e837eba8964908adbe6212ccaf8530faf20"
     },
     {
       "path": "exports/rates/champion_rates.json.enc",
       "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/rates/champion_rates.json.enc",
-      "sha256": "55a08eef9612b2a8f6a86e289a6c664ccb631b1619b06e8457a6ff113516546a"
+      "sha256": "b7df0b7e335744c853c9e63206d54ca11168ac4b666fa16e87ec1741bc3bcece"
     }
   ]
 }
