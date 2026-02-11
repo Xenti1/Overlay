@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: LeagueOverlay-Setup-1.0.0.exe
-    sha512: hIdtsNSU2O3nw5Ll4B5FcSwWcd5mysZB9qVJeB+y0Hy4OBhxYCPm3LSozmshUpj0FsAQMwkRE3N75QEecGL3zw==
-    size: 77883491
-path: LeagueOverlay-Setup-1.0.0.exe
-sha512: hIdtsNSU2O3nw5Ll4B5FcSwWcd5mysZB9qVJeB+y0Hy4OBhxYCPm3LSozmshUpj0FsAQMwkRE3N75QEecGL3zw==
-releaseDate: '2026-02-09T20:11:26.040Z'
+  - url: LeagueOverlay-Setup-1.0.1.exe
+    sha512: ePzAJp2k4hFcSjBt9Mb1oret/nMVt2bdeTTpeXm00mWcFjFud1tJQul2+lMn4QRv2bbg2vFdXHLXZxZbOitPhg==
+    size: 77886406
+path: LeagueOverlay-Setup-1.0.1.exe
+sha512: ePzAJp2k4hFcSjBt9Mb1oret/nMVt2bdeTTpeXm00mWcFjFud1tJQul2+lMn4QRv2bbg2vFdXHLXZxZbOitPhg==
+releaseDate: '2026-02-11T13:55:09.138Z'
