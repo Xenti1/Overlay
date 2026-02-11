@@ -1,631 +1,631 @@
 {
   "version": "2026-02-11",
-  "created_at_utc": "2026-02-11T14:10:09Z",
+  "created_at_utc": "2026-02-11T14:53:04Z",
   "files": [
     {
       "path": "exports/champion_winrate_minute/16.2/EUN1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/EUN1/BOTTOM.json.enc",
-      "sha256": "2c86b5a9b059e186f943bbd8ada52d84f852081c04e600761eb69b2e882e21b1"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUN1/BOTTOM.json.enc",
+      "sha256": "35369fc4b9908557607d00d699df729e517858f3355a6e69887c6cd420572fc7"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUN1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/EUN1/JUNGLE.json.enc",
-      "sha256": "91ae7c1d0480238ae199b822871913a3130c6634b4bcbefdecd7c9746bf977fa"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUN1/JUNGLE.json.enc",
+      "sha256": "b508c99bdc22a2d01d211b20d1ae6741c349694c5b64a4fa9992efc67b237d10"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUN1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/EUN1/MIDDLE.json.enc",
-      "sha256": "999dd9d8160a21a1778a11fd8cb6c3e20c44bfeb88c4ff6efe1aa057791e46c7"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUN1/MIDDLE.json.enc",
+      "sha256": "be95ec227718e868dc0b219839a0363f5df1e6302e91a5b86afe2a5e888379e2"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUN1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/EUN1/TOP.json.enc",
-      "sha256": "a4a82a8fdd1269d54b9cd16dd2ccb6359fcfb0916cf8a73b3038b190ac46ed07"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUN1/TOP.json.enc",
+      "sha256": "cb868b6f201a178a271686370ef5714f855e1a8c06832cfdfc2dc1c941797e32"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUN1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/EUN1/UTILITY.json.enc",
-      "sha256": "be7ce6c6ade3359a669bbcfba16fd3a221b70e6e87d15e0b4189de87a9df007f"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUN1/UTILITY.json.enc",
+      "sha256": "c69129a79fb16de6b43e444d579c4d5248897d5d94228d28c7e083ea8fb86157"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUW1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/EUW1/BOTTOM.json.enc",
-      "sha256": "50b753a0e048b0122c0db17ed7133dbeb409477afdc03c4d0fff350266b05c36"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUW1/BOTTOM.json.enc",
+      "sha256": "79522a671104b8e51dabcfb64157aed7038ddff0b7d07295ba9476138d1a5a02"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUW1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/EUW1/JUNGLE.json.enc",
-      "sha256": "35e6d8d3820f26da1686e4cb8be143dcb863ee720698fa937e93afa9ded1cee9"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUW1/JUNGLE.json.enc",
+      "sha256": "be37d1c1e22ac914bcd7078b92f4726e5ef43798e04d93984565c37d5788b045"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUW1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/EUW1/MIDDLE.json.enc",
-      "sha256": "6674bd546c5ea22b3499f8133ca9890f58c9c89de6f0ad586421c545b238be62"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUW1/MIDDLE.json.enc",
+      "sha256": "d619a980027bf620d56455ecdfe3e7a53f0cf850dbe696c682bd3cb91afc34ac"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUW1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/EUW1/TOP.json.enc",
-      "sha256": "b65e26e530b8e85ea4bf076ea05f198d11ecc8eb3bd2f686447f491d89b46273"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUW1/TOP.json.enc",
+      "sha256": "9ac972c9945d0efd03ba897d9f403bf91bfd65d1505e6d00e67b5eb62c89eb55"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/EUW1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/EUW1/UTILITY.json.enc",
-      "sha256": "493f65e29d0aa1aacb043fb20c216a5bee796ffd4cdf15105392da0e8a65d666"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/EUW1/UTILITY.json.enc",
+      "sha256": "26c143c91d6ac98956d16f29e097f3230f4975145ce77e383486e4f4f26e3d28"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/KR/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/KR/BOTTOM.json.enc",
-      "sha256": "bdc7e15e48d5eb1caed3364ce9c5f6c7849ae18ed14fb271755ace1f67fcd718"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/KR/BOTTOM.json.enc",
+      "sha256": "b9d65573946f56d28c5843f89d103a678bd80d6ca5bb0978336aa7de2cc23b26"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/KR/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/KR/JUNGLE.json.enc",
-      "sha256": "fca9644a1f848b9548e6891183ff5d649e331fef289bbbd9abc0ba3d3bd11429"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/KR/JUNGLE.json.enc",
+      "sha256": "c399879b60738178a98472d3614c9b98de180febca090cf423ab538fb1ec35a3"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/KR/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/KR/MIDDLE.json.enc",
-      "sha256": "0b4499b41691e7f14c6870ddc6bcbe2e26704e7ba6df1ae4b7145446842ce502"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/KR/MIDDLE.json.enc",
+      "sha256": "2aa6a7e21dcf461c80e658f09222dd4991cd36053a0c4fd2cf234ba5792f1b0f"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/KR/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/KR/TOP.json.enc",
-      "sha256": "c41e1afc5154a8eb48c75adcdc39bc31ba3398f9bfa675daa5629dd46ece9460"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/KR/TOP.json.enc",
+      "sha256": "7695120560c7365c7ef0af9847b647309a79a5f6f6b5f505dc053695198a0bf0"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/KR/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/KR/UTILITY.json.enc",
-      "sha256": "9a891fabcc9ebc7ae545fcf8470ad03e0fb789b5f5945ef04f837ba788381be9"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/KR/UTILITY.json.enc",
+      "sha256": "617bd39965e380264f6ea93efb7e22726fb92eb3d897af6916665a23912fe667"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/NA1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/NA1/BOTTOM.json.enc",
-      "sha256": "2c8df7365a6a8580a7bad1119d6833d45c41ae894663a4b1c50204ea07b69fa2"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/NA1/BOTTOM.json.enc",
+      "sha256": "13a142babab98c2e3d47a193ac3f9858a51b356dd91919f7203ace6c839e3c45"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/NA1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/NA1/JUNGLE.json.enc",
-      "sha256": "22af3a7c35a63d4fa8be96b2ca2c8d62364af720a8235769f5baaafea48cd3fc"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/NA1/JUNGLE.json.enc",
+      "sha256": "58b0fb53b51d41aba8394c263414d5c612ec41e80322bc83e1d6c6c5bf9b2a0a"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/NA1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/NA1/MIDDLE.json.enc",
-      "sha256": "2956c9a01f2607e26b1e040bac13a5fbe45dc84d0d7e1d93f2f6d47caecd0893"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/NA1/MIDDLE.json.enc",
+      "sha256": "39896c2d2a343a82834e51dc390b481a6c9d29e69be8836ab303ba6528a748c4"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/NA1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/NA1/TOP.json.enc",
-      "sha256": "d4ae70093ea15a0508e31fc16619f1588a0cce9f52742f7794f0721ed9c8ba2c"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/NA1/TOP.json.enc",
+      "sha256": "cbdffb5b2e621f2d77ae37257a350b19cdd7f9959e1a8edaa8678bd0ecd5551f"
     },
     {
       "path": "exports/champion_winrate_minute/16.2/NA1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.2/NA1/UTILITY.json.enc",
-      "sha256": "31a3e467bc758ed378699920c2f53b746f6017796315412280d900af5f968981"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.2/NA1/UTILITY.json.enc",
+      "sha256": "cc94f79143e39cd737d0c82d9af96b8133ee1b4e14d33f2c6a300bc7fe6eb738"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUN1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/EUN1/BOTTOM.json.enc",
-      "sha256": "1842bf48cc6a09407bf397e3c0a4ce3a89506292cf9892b756d74cad0ef99bdd"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUN1/BOTTOM.json.enc",
+      "sha256": "50dc41fb5283c530024c034fa4535fe4517c363759b595b71d613554085bdd07"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUN1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/EUN1/JUNGLE.json.enc",
-      "sha256": "d30d1e90d3d47821f45b2bd2c865826489f03eecb962b91f80aab307accf6f01"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUN1/JUNGLE.json.enc",
+      "sha256": "fd5fb4c9b85e62bb91884007f7ce9351917886a43457e3356859279293aa6e32"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUN1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/EUN1/MIDDLE.json.enc",
-      "sha256": "9ecbd3d8e1fa8e486cb3420d04d080264051fcd7839d3e1f5746ea6c8a858499"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUN1/MIDDLE.json.enc",
+      "sha256": "637ee1413ae368095232e1877a80c4ff9539c03d4c0dacaa8d747bbc7268d3f6"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUN1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/EUN1/TOP.json.enc",
-      "sha256": "2b9998a3da26fdd004b9860cc62da6ed4ed331e10b1b14ea75c4d97a2a461525"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUN1/TOP.json.enc",
+      "sha256": "d636d7c5bdcf9534a5b42f8d909a9a02c9592656c6a35d0608a8117470ad5787"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUN1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/EUN1/UTILITY.json.enc",
-      "sha256": "2b5ef2c72e5d30389d1c77ca85b5d70bc2207fbad2a7ef2efe013bd6528cb5e7"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUN1/UTILITY.json.enc",
+      "sha256": "882f500a97e4d2520ff69e32442b11f222aa954482523241758036066c88424f"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUW1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/EUW1/BOTTOM.json.enc",
-      "sha256": "83b0051d5309f2655870507cf83ca5d6c580bea36607c201303db822e9248215"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUW1/BOTTOM.json.enc",
+      "sha256": "ef583d9172e32d0b8b8faa7a57fb6e72c2ca3f2d07797a54649644c87f76abf6"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUW1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/EUW1/JUNGLE.json.enc",
-      "sha256": "3764d9db14df05b5c5339d6776f2e962c6f0e7dfb6d8bc1b284adb521cae0651"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUW1/JUNGLE.json.enc",
+      "sha256": "518e05c1641c2368ce3d22999f56dcb2f1f78f23d1170736439f2309dff9820f"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUW1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/EUW1/MIDDLE.json.enc",
-      "sha256": "5f6883885bed7cbd71f519fad6c286463c987379453b4c345954fce66acc46db"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUW1/MIDDLE.json.enc",
+      "sha256": "e3b9a8300baee713cff92a2876fae969056a73133228d1599c4c1b8cb1cfad65"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUW1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/EUW1/TOP.json.enc",
-      "sha256": "7b77f00e523fb106412c3b4fe91aa9538c539a8c18e1424220c0022fce4d5d7b"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUW1/TOP.json.enc",
+      "sha256": "40ea755fd11f1014f467ba4c83adde7df12d77229ff4abc7432838af203cd367"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/EUW1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/EUW1/UTILITY.json.enc",
-      "sha256": "4a0d15d0491bbe5c32c309e3a7b83e15806dfc81a904f764bdd5ddb253460c71"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/EUW1/UTILITY.json.enc",
+      "sha256": "e2878533b03dcc94311ccc5b258b59779e8a70a277e467df5c7caae7e5b901b9"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/KR/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/KR/BOTTOM.json.enc",
-      "sha256": "dd8f6e8ed71366c4f6d1ac21a80e95591405a6fff520d3102d0bbbea512031a0"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/KR/BOTTOM.json.enc",
+      "sha256": "92e6014411f93b52cb62c5252b8ef01072b5c76ab7e8c9a5e7e4e0912121aaa1"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/KR/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/KR/JUNGLE.json.enc",
-      "sha256": "7f16f27bfaf8c952f8468f9ba94c6411490bfdab4b924dae3d413abe278fa1bb"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/KR/JUNGLE.json.enc",
+      "sha256": "bd26aed25eb0220f2ff0a66c04eb1fc880ea13a45a36b8d11ec3beb7a92e49df"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/KR/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/KR/MIDDLE.json.enc",
-      "sha256": "6e437a9d0391dbebe1c64a6ebdd5389e244e569e8460acdbd867d2b36b8963f2"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/KR/MIDDLE.json.enc",
+      "sha256": "33a47de6de223065aa3dff004549c1f9a66bbabf650b01ec20b765eae2754004"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/KR/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/KR/TOP.json.enc",
-      "sha256": "9a25eb72e5406d061b8872885459c8a801905ccb0672add98bc127c8024275d3"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/KR/TOP.json.enc",
+      "sha256": "f84cdf92e86e1dec64d322851f7d1e7cc62d48b9a33674ad4576888460d8fa82"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/KR/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/KR/UTILITY.json.enc",
-      "sha256": "7c6d553aa263ec04dd7d666859b7d740341f608077f42987122fc2f0cf378cd7"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/KR/UTILITY.json.enc",
+      "sha256": "5be93db054a0544f2c8a211c9fe1465ee6a3332fbcaea4c876e7565b6b33a715"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/NA1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/NA1/BOTTOM.json.enc",
-      "sha256": "fae5eecf5007d8afe73588770660b22c4df332ac9d8101456a384829a52226c1"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/NA1/BOTTOM.json.enc",
+      "sha256": "76d1a1538a4deb86e10438307b9409323d22f4cfdf85c965e4834c41608de3ae"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/NA1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/NA1/JUNGLE.json.enc",
-      "sha256": "6d6c1dba5a122ddc6cdbe182a637b2b6d0b7d89755cb25ff680ce68be651fbbd"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/NA1/JUNGLE.json.enc",
+      "sha256": "24043c678caa840216efc69738313a215f1e6eeefddea39d2fd10a0527262165"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/NA1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/NA1/MIDDLE.json.enc",
-      "sha256": "afec09c9f16a975c00f8d7d96c0e903c6d0c405ef52e9b14dac0caf8d5220d51"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/NA1/MIDDLE.json.enc",
+      "sha256": "6e84bbe2eb00113afa359ac780be556163dd427d4cc6c21b24493410fb5b0add"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/NA1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/NA1/TOP.json.enc",
-      "sha256": "db9839f408ad66b3a8a723ca698809d970b8ece46f13812dec9bf7fd9a8e70c7"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/NA1/TOP.json.enc",
+      "sha256": "19eaf3b9d70077b36c34953618ef50ab411316532c49c6eddc72561cf3af4f5a"
     },
     {
       "path": "exports/champion_winrate_minute/16.3/NA1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/champion_winrate_minute/16.3/NA1/UTILITY.json.enc",
-      "sha256": "6a5ee43f0d9ae802f1c78d8353479a231b15d8d2a26d294f84643aa39365c78a"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/champion_winrate_minute/16.3/NA1/UTILITY.json.enc",
+      "sha256": "59baad445182bd25d56341308a3377b82e336f25beed09b568156bce498aa37a"
     },
     {
       "path": "exports/matchups/16.2/EUN1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/EUN1/BOTTOM.json.enc",
-      "sha256": "a6cbeee2450a38b95e6c44c37fb0f9d3395ce37a52a2b344d58a4d57995afa20"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUN1/BOTTOM.json.enc",
+      "sha256": "a15d2c9c8d1f611fba5162d498126befc0ae3b38134626207c50e0c597a4d0a8"
     },
     {
       "path": "exports/matchups/16.2/EUN1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/EUN1/JUNGLE.json.enc",
-      "sha256": "eb5b12d99c2cb29639f20c7281f180903bcded147277f0c27f098fbb6e5dd24f"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUN1/JUNGLE.json.enc",
+      "sha256": "a09752c5c3ad15b452a9e303be207d017b583d68d255fd5b8c3ad92f96063180"
     },
     {
       "path": "exports/matchups/16.2/EUN1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/EUN1/MIDDLE.json.enc",
-      "sha256": "4d6b57933782c2b8f133e80f05fdcd2e63ed689b3330cbaad203ead2a782ced4"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUN1/MIDDLE.json.enc",
+      "sha256": "9537e3f8ab875057269202c406b939f11ac4fb7461c149ba323c5e5d0fceaf8d"
     },
     {
       "path": "exports/matchups/16.2/EUN1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/EUN1/TOP.json.enc",
-      "sha256": "079679bb2813e2b916780e97f7025f5b3b51785abb9eb5cd6023f9c25a290443"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUN1/TOP.json.enc",
+      "sha256": "a234fc45d2400f39318380230832ea51603a72c66e421825929e19b26a481b81"
     },
     {
       "path": "exports/matchups/16.2/EUN1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/EUN1/UTILITY.json.enc",
-      "sha256": "28879c3abeb85cbcd8548ba5d1c7c988b5f14cf8d4dd991ce670c8e809041c40"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUN1/UTILITY.json.enc",
+      "sha256": "f68f8e4099c4d207902bf706fb68aa07f1b1e5f3db719c15f88a21c9b4d45e3e"
     },
     {
       "path": "exports/matchups/16.2/EUW1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/EUW1/BOTTOM.json.enc",
-      "sha256": "c0f25c1fdea49ad81b9e90124bf215c844229fc638fe1fd7cf1c6259202bd058"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUW1/BOTTOM.json.enc",
+      "sha256": "475cac1d611d97a8681062a9a418aeb47cd2b208a971c31438d6508fa0378326"
     },
     {
       "path": "exports/matchups/16.2/EUW1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/EUW1/JUNGLE.json.enc",
-      "sha256": "4bb6996f79b304048ecee33e3ed08744aab9c3c28b73672a513b647b65bd11c9"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUW1/JUNGLE.json.enc",
+      "sha256": "0333ad4ba6fca66df8524244383badb54373dbfcc0cb2c8cb6098c800df2821b"
     },
     {
       "path": "exports/matchups/16.2/EUW1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/EUW1/MIDDLE.json.enc",
-      "sha256": "c176217ce5451ec586490ba4590b47af53fd7c81e08c8b255c2443739d479fbd"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUW1/MIDDLE.json.enc",
+      "sha256": "7874f22584ff708c50ac72332fe8f1f47c407de37e313a22f7dd8a363bb8f653"
     },
     {
       "path": "exports/matchups/16.2/EUW1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/EUW1/TOP.json.enc",
-      "sha256": "9dd5c6593522c262195e07acf57933389c62803882fcd534a945c28e974d92ce"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUW1/TOP.json.enc",
+      "sha256": "124ed9a3835ce09a1dc91224129f4d74185e7e4ae7f72f89aeac6128430aeff4"
     },
     {
       "path": "exports/matchups/16.2/EUW1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/EUW1/UTILITY.json.enc",
-      "sha256": "cb91ffd743c9e82a476a16a408c5c291e4cc7ab1ba63c63b121fa8e512cf374a"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/EUW1/UTILITY.json.enc",
+      "sha256": "7a8fd6259c4195136e897e5844927cf68e899fb760f757c32b31ee2ffbccf885"
     },
     {
       "path": "exports/matchups/16.2/KR/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/KR/BOTTOM.json.enc",
-      "sha256": "a362ce58825c8a9bcec22d3004f17821762aa48b8f23df6641f1cf6374564e04"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/KR/BOTTOM.json.enc",
+      "sha256": "9daafc5d6954a2c340e71a5da08339623cfafe7fdb38580e687068abe3023a8b"
     },
     {
       "path": "exports/matchups/16.2/KR/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/KR/JUNGLE.json.enc",
-      "sha256": "ec9ab11b1a94e9cebf92208b2df43de9761fe9c7ccacbe90a5299640848e06b7"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/KR/JUNGLE.json.enc",
+      "sha256": "ab76440c65dadd7c06ed1ed8793a026ab6da32575b4fa58a22f7152f9e8423e8"
     },
     {
       "path": "exports/matchups/16.2/KR/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/KR/MIDDLE.json.enc",
-      "sha256": "0dfaadc3d9c90e67927b38352bc69e4210ababb3380330e2542a54aab7170418"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/KR/MIDDLE.json.enc",
+      "sha256": "4936f74da3f99b9f7203c6bbd04293b629570ebd5e0aac2c516560ef91b26916"
     },
     {
       "path": "exports/matchups/16.2/KR/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/KR/TOP.json.enc",
-      "sha256": "3e4bb1b8138cca31c4839e062213a502996b1a52088469beb5f4126252761d20"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/KR/TOP.json.enc",
+      "sha256": "dc45362f8de97454f3cd046df478639b440f597fde3fe149a246f534783807d7"
     },
     {
       "path": "exports/matchups/16.2/KR/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/KR/UTILITY.json.enc",
-      "sha256": "6363c8c75a96779a310debaa52b0fa81c9438ae56da0893d5088a73082f8f1ca"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/KR/UTILITY.json.enc",
+      "sha256": "840161ff81dff50c7454db01b3b902128bc8f1f45f8a0efcb76dd54671b0c924"
     },
     {
       "path": "exports/matchups/16.2/NA1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/NA1/BOTTOM.json.enc",
-      "sha256": "1b90146480fb7af0377ab99668387b47a0f9b06e1353d98bbd98d9d9f78fcbf1"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/NA1/BOTTOM.json.enc",
+      "sha256": "2b4dee29177c9d14a65f7820d8b4e4e31003604a2bfb60cbe21e29aac1938300"
     },
     {
       "path": "exports/matchups/16.2/NA1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/NA1/JUNGLE.json.enc",
-      "sha256": "43ba91f0cad1e096de0a6e497d98d1738de1ffeeac0319a567d66f20899e5efe"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/NA1/JUNGLE.json.enc",
+      "sha256": "927838b9ee55e26534e3690e21a43cc19484c44af961c747158994552da01457"
     },
     {
       "path": "exports/matchups/16.2/NA1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/NA1/MIDDLE.json.enc",
-      "sha256": "322816cdb1ffd586310613d9c473d31107396056ea2ae898e7ffea539a35d704"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/NA1/MIDDLE.json.enc",
+      "sha256": "910a23af87b3266116798073c48fb339d8632ff2a9fd9ba33b2f492a64e2c0af"
     },
     {
       "path": "exports/matchups/16.2/NA1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/NA1/TOP.json.enc",
-      "sha256": "8ce6a488b9772b085d7297ac83ed6ac162a66b84c65853d194b5fd882e475c3d"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/NA1/TOP.json.enc",
+      "sha256": "16b07a54698922992d152b90a576e8d5435f1a9e1c822066307b70194033ce2c"
     },
     {
       "path": "exports/matchups/16.2/NA1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.2/NA1/UTILITY.json.enc",
-      "sha256": "a5a9894207f94fd1f1e159a36eca50b13befc7e1bfd20d7af1e9d58c4277eb87"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.2/NA1/UTILITY.json.enc",
+      "sha256": "309186c55cf32a475a127987a27b10d0dc10eae8f1b9839d1a9ba9cb7ce4e346"
     },
     {
       "path": "exports/matchups/16.3/EUN1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/EUN1/BOTTOM.json.enc",
-      "sha256": "5856eae8e27f737cf4f28bc8727a2777fe1c6fcb02d4c0a0d831d256a9645b26"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUN1/BOTTOM.json.enc",
+      "sha256": "9d3493233f814f9849f9b312f0464850346acea3dcf16b3223ba3b5323e71b26"
     },
     {
       "path": "exports/matchups/16.3/EUN1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/EUN1/JUNGLE.json.enc",
-      "sha256": "43c4831ae20719bcf063323c1a1656ab7d9c69d87c44af64ff102fabf3bd4a0f"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUN1/JUNGLE.json.enc",
+      "sha256": "649a18c91981c52a83f247cb8e845f6026bcd743cab17cf681438747066342df"
     },
     {
       "path": "exports/matchups/16.3/EUN1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/EUN1/MIDDLE.json.enc",
-      "sha256": "67ca2162bcfe7edaca44d099ca63e49d583dbe5e955de6f56e07b5b6e256e4e4"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUN1/MIDDLE.json.enc",
+      "sha256": "a2c81271c27c1eff68dd2dbc7eb5b7558eb26d7017b4d68ad661ebab81254f54"
     },
     {
       "path": "exports/matchups/16.3/EUN1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/EUN1/TOP.json.enc",
-      "sha256": "d4d7eb91d22a6957a1e15a502b927e32bf517498446ba63f4bd170711595a36b"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUN1/TOP.json.enc",
+      "sha256": "c1d9a616458af52e9509a8810697843a09fbbedeb838aaa220b97c0e3a03c006"
     },
     {
       "path": "exports/matchups/16.3/EUN1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/EUN1/UTILITY.json.enc",
-      "sha256": "38c1a4e1a304cab0364bdb399ad1ea59755f11bfd0b90a1c4a66f4383c924a15"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUN1/UTILITY.json.enc",
+      "sha256": "0e58a392521f8e300a3650444813cab2c53c5d11f69bf6557d42221b1a708956"
     },
     {
       "path": "exports/matchups/16.3/EUW1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/EUW1/BOTTOM.json.enc",
-      "sha256": "655ca721e9bdb3bcc6124b105f0a88d934347d5c4a4aceaaa608d4310829f6b5"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUW1/BOTTOM.json.enc",
+      "sha256": "35289cd80a14ed87205e02eadc8b29d626243e840f5450b8188e72bc5f72f8e7"
     },
     {
       "path": "exports/matchups/16.3/EUW1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/EUW1/JUNGLE.json.enc",
-      "sha256": "d1a4f1a8684e529e7d104fca21ca628b3021485ea8e7484234caad4e634fd05f"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUW1/JUNGLE.json.enc",
+      "sha256": "db1b00ef9b648f03dc7bf484bd85ba68991a593c45b883beeb6169bf57597fb5"
     },
     {
       "path": "exports/matchups/16.3/EUW1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/EUW1/MIDDLE.json.enc",
-      "sha256": "a7dedcc52419f13dfbb6e0f5e5d2a7ea5b7a5563775491e40a8f3ab35309da4d"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUW1/MIDDLE.json.enc",
+      "sha256": "577821cdc08e7e01f83ad12060b91190022b83cf8fe79cc56715d4f3126ff8ab"
     },
     {
       "path": "exports/matchups/16.3/EUW1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/EUW1/TOP.json.enc",
-      "sha256": "a817945369ee9d9d560844fc0aa89fb7605d56ef08a4394e48c7d009e49f2430"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUW1/TOP.json.enc",
+      "sha256": "3bbb2ce08ed30c68d0ba08e4d3883309905223dab2b55e8eae0e80de5afb94c9"
     },
     {
       "path": "exports/matchups/16.3/EUW1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/EUW1/UTILITY.json.enc",
-      "sha256": "a464382d326e0f5b19d214d1a8aff1271ea940e96bc4e89f6717a44d403f4886"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/EUW1/UTILITY.json.enc",
+      "sha256": "18dccd7cc199709ab7671314e376f25dc8f1be16c4e83978964a5231eb47bade"
     },
     {
       "path": "exports/matchups/16.3/KR/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/KR/BOTTOM.json.enc",
-      "sha256": "a3cd06dcd774ebb143ce9f2626333bb1c772f39f7dae30d5dd3e1aee5e851556"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/KR/BOTTOM.json.enc",
+      "sha256": "c1450a98057b72f5888caaf433b6a102763ad1aaf9022ede76dfff48815a9559"
     },
     {
       "path": "exports/matchups/16.3/KR/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/KR/JUNGLE.json.enc",
-      "sha256": "a9f85118b6d5e8e6e68b478f1460fabea455c2ba73072bcd7b230383cbe2d9d3"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/KR/JUNGLE.json.enc",
+      "sha256": "88483ba6bd017d7423add1ffabee2572431ead444c775f54475bae1d3d5455cc"
     },
     {
       "path": "exports/matchups/16.3/KR/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/KR/MIDDLE.json.enc",
-      "sha256": "f8722a772515e5fb36d30bae8a12b87e1a2125fbc2e8f8a26f744e2ba0f29f80"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/KR/MIDDLE.json.enc",
+      "sha256": "d13a831c6fb5ab6fed28fdb135891d70c36a773433f7141e3951b2c11bc00d81"
     },
     {
       "path": "exports/matchups/16.3/KR/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/KR/TOP.json.enc",
-      "sha256": "da6269d19da65242a90c98e9a51c0d6293dc73638f22999ee3919f8a479e41e2"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/KR/TOP.json.enc",
+      "sha256": "4a5e56ae4c8176bf14e8e4fe612c556ae5766741f5fe5fc3ae86ccfd061ffd6e"
     },
     {
       "path": "exports/matchups/16.3/KR/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/KR/UTILITY.json.enc",
-      "sha256": "358e4aa2120a971d98ca4cc805ad6f7905890946b7f5373be803b7798da9639c"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/KR/UTILITY.json.enc",
+      "sha256": "ba134b1152fdd6dba4df29d12969e0e45266ffb2f900b32db48217f9b5092d75"
     },
     {
       "path": "exports/matchups/16.3/NA1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/NA1/BOTTOM.json.enc",
-      "sha256": "58178ed8ec0c725ed7670d0b8762cba40dda342be3ad8beeb73e5d3598a5dd43"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/NA1/BOTTOM.json.enc",
+      "sha256": "b5db298b5ff099346b55dbae81ab4a77ecd07047d9d35577f93d684a0ae00944"
     },
     {
       "path": "exports/matchups/16.3/NA1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/NA1/JUNGLE.json.enc",
-      "sha256": "418d42a5ab80ebeb99bbb4104b47673f699c580f91531a23513ae4374651aab8"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/NA1/JUNGLE.json.enc",
+      "sha256": "247377405b6d9d7fd19099a9f86fa6a5da7c1bd00eb5153780b9a72d71807f06"
     },
     {
       "path": "exports/matchups/16.3/NA1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/NA1/MIDDLE.json.enc",
-      "sha256": "5ebbb851bda45f9c9427e39596d1fc395f26225e224fb14c55583f31b2b9eb79"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/NA1/MIDDLE.json.enc",
+      "sha256": "f49e17f093b2d2f54129474a56320b540136600318f53b1a17d286bad5c4062e"
     },
     {
       "path": "exports/matchups/16.3/NA1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/NA1/TOP.json.enc",
-      "sha256": "6961e841f943ade59ac8f4bc41d826eaf972e8e76e9d7d96ef15b91cc1acdfde"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/NA1/TOP.json.enc",
+      "sha256": "912dd205a77954dff844795da3317ee715de075ef38b55d26cd8e07aabb3b7f0"
     },
     {
       "path": "exports/matchups/16.3/NA1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups/16.3/NA1/UTILITY.json.enc",
-      "sha256": "9d9b1e8f37f2cf19726af35118cad0bb4c5d44a09ef42dd29ba2d6526888200f"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups/16.3/NA1/UTILITY.json.enc",
+      "sha256": "1875bcd5f07e5cfe55f57909159242aed21cc32dcc68a9eee59ae20b5ffbdfa3"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUN1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/EUN1/BOTTOM.json.enc",
-      "sha256": "fb34a7e600f625b0b26a2bca926aaf921b5387616f4044175c7438e403cdbfd4"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUN1/BOTTOM.json.enc",
+      "sha256": "6ff6d1feb23c6344e9f213a2bdaf39634148158de05d8c0cb2d565a9a5a755c7"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUN1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/EUN1/JUNGLE.json.enc",
-      "sha256": "72ef1498b20023bed696c2aabd9aa1bba1d6f44d192ba78f3eafb5a361033096"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUN1/JUNGLE.json.enc",
+      "sha256": "ec6f73175b349307696e889199e8b3a0ba5ddac4d6c6cffcd95c706559d7e85f"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUN1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/EUN1/MIDDLE.json.enc",
-      "sha256": "aea624cee4b350cdca6130271793e69306e597a23afb49a72f5d341fa6992255"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUN1/MIDDLE.json.enc",
+      "sha256": "2bb6bf1c93dff04d106039c9f47543c1443726c5f88783148babbb06c5572cde"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUN1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/EUN1/TOP.json.enc",
-      "sha256": "8362b991427f66d869eded512ed814dbf79e543a8bb3fa1a3fdb8f2f2510574c"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUN1/TOP.json.enc",
+      "sha256": "9e9e5af822632236fb1c221039c6fd4f0c38189d74795b02b4d63345a63a2438"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUN1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/EUN1/UTILITY.json.enc",
-      "sha256": "f893a28ae6b9ff27cef4b97eca185857e82cbab22b73d502e77c00b3b22d8783"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUN1/UTILITY.json.enc",
+      "sha256": "1df401b94667787fa27ad01ade17599f15936745b7fd13bf0310e7006c036ac4"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUW1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/EUW1/BOTTOM.json.enc",
-      "sha256": "e66d96aabb67f0351acc0a1f509ce61faf96e6029536bc3bc12f7e5ca7c19042"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUW1/BOTTOM.json.enc",
+      "sha256": "3ba87c044d22c64acc82d31871e600968efb5adb77cad66cca1ac14a7a1bc517"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUW1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/EUW1/JUNGLE.json.enc",
-      "sha256": "c28c91fcbed2cb3dda36973a8f1df87063656ba89c77d9001193f54077cb2919"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUW1/JUNGLE.json.enc",
+      "sha256": "b0201c5b492a9bd47e69265830a89e5d61742ed36e16c8d04811399811f19c9d"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUW1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/EUW1/MIDDLE.json.enc",
-      "sha256": "36c674eea3ba5d24fe1623326ba1acb99bc2da852208b76a2d81b2aec3aa3887"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUW1/MIDDLE.json.enc",
+      "sha256": "92eff16e42235338fd38b2d5ea755f8756ba9892d6b1610e00e2ea1d36c85e7a"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUW1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/EUW1/TOP.json.enc",
-      "sha256": "a3f678b9ffc3b69acfc43a6e6e72c75e0a60866bb35571d49b3e84837cb0b0d5"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUW1/TOP.json.enc",
+      "sha256": "ea1470176cc615b87ed283ce98df0b12218fe77dcea2aa000f714c664f36ee9c"
     },
     {
       "path": "exports/matchups_gold15/16.2/EUW1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/EUW1/UTILITY.json.enc",
-      "sha256": "071eef82e150810d3abcda5862e1c4fb44502b5d9b324086a8c4091be542cbc5"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/EUW1/UTILITY.json.enc",
+      "sha256": "b961611848f0db7f061effe513023f6ca3a90c89a8f658073edb5e937fb392da"
     },
     {
       "path": "exports/matchups_gold15/16.2/KR/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/KR/BOTTOM.json.enc",
-      "sha256": "a99df181a34803c5cced686486ca4a1633f962b9cc701de406152c696d6e7654"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/KR/BOTTOM.json.enc",
+      "sha256": "c08e467a1b925e966ae36278efd62cc3ed74a9bee6434f1dff13408998d2d7b9"
     },
     {
       "path": "exports/matchups_gold15/16.2/KR/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/KR/JUNGLE.json.enc",
-      "sha256": "d489558968d9b4d8831a021cfdd561d3cb9472f80e358afd602c0c8d89f8f1d6"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/KR/JUNGLE.json.enc",
+      "sha256": "bd9147b470c9d1429147a69096ad30fd39aeb66294fcb46d65ffb6d323dce3b4"
     },
     {
       "path": "exports/matchups_gold15/16.2/KR/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/KR/MIDDLE.json.enc",
-      "sha256": "db36fab2f02527e547cfc27630af596bb1d4d905e72518d39201798b9ebeb276"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/KR/MIDDLE.json.enc",
+      "sha256": "0c49917a8ff30d6a2a0e043235bab7ca4fb8ba8b17b253f00ec99d31db2cfd49"
     },
     {
       "path": "exports/matchups_gold15/16.2/KR/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/KR/TOP.json.enc",
-      "sha256": "b7662f93677430f36900b0a9b5ddee3b745499f276b636caf97bd4865fb81f52"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/KR/TOP.json.enc",
+      "sha256": "6d4309723ef22e888e71a172e261bb1cf59a99ff20f8479148937d13daf9e382"
     },
     {
       "path": "exports/matchups_gold15/16.2/KR/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/KR/UTILITY.json.enc",
-      "sha256": "8c80b51890354a0fc8cbcb9442a5291446ba80671506061be02102f143722a11"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/KR/UTILITY.json.enc",
+      "sha256": "42ec1b322a531b693fb82bc0a3a2bd8a9cd822f47a058e8399141a98bdbe9ac1"
     },
     {
       "path": "exports/matchups_gold15/16.2/NA1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/NA1/BOTTOM.json.enc",
-      "sha256": "b7044cd2fd1271b611cf5c32da80dc20a1cf677f7714eff56e713ad33ee698ab"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/NA1/BOTTOM.json.enc",
+      "sha256": "35440f8180f534c8e23ba7cffef4a6b1d17b9d7998ced7cf241a490e19659e15"
     },
     {
       "path": "exports/matchups_gold15/16.2/NA1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/NA1/JUNGLE.json.enc",
-      "sha256": "7051f438c92dc0762fbee42a5c1fa5bbcb8a1e26a0ae55226ec6e827c1125ccc"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/NA1/JUNGLE.json.enc",
+      "sha256": "ee585a5592f448e01412c05c212653442da795733ade87405b4263c5460982f5"
     },
     {
       "path": "exports/matchups_gold15/16.2/NA1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/NA1/MIDDLE.json.enc",
-      "sha256": "8f1449c8a6627d527fc8a87b5b9baab080bf8d17042d8bc1dbfdd9c7a2a12e95"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/NA1/MIDDLE.json.enc",
+      "sha256": "1de35355411fadbe818552272aba261683b4de4252f4e0981a743c620f0ad12a"
     },
     {
       "path": "exports/matchups_gold15/16.2/NA1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/NA1/TOP.json.enc",
-      "sha256": "c21e90eb0a9265681c697515c49648d468086e33cd7c231585582f5e1e843221"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/NA1/TOP.json.enc",
+      "sha256": "1d46a75af79040af6d9a980645a75da960769b23986a2a89656bd4053781c02c"
     },
     {
       "path": "exports/matchups_gold15/16.2/NA1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.2/NA1/UTILITY.json.enc",
-      "sha256": "7802b8188d522432162ac7b02304be6d4baf5e1e8021077d6807b732bf9e9ce4"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.2/NA1/UTILITY.json.enc",
+      "sha256": "6ce32cd2314e34d0c37e63dfd2450132c2383e11e55d1d90294dc77f63d7f120"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUN1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/EUN1/BOTTOM.json.enc",
-      "sha256": "7a199be4b0195e32a6d632ac6e7a5fd525eb2f15a30bb9c2f10e966016b97264"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUN1/BOTTOM.json.enc",
+      "sha256": "29c8e5169c86ed7eec9892d1ad853dc32c777138d3b22400ced7310e0a0ef032"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUN1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/EUN1/JUNGLE.json.enc",
-      "sha256": "ac6765801c9a6a8b19a8c169e8d5203e4a61dd0c44e9037e6bf2a5b1d6b46f8b"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUN1/JUNGLE.json.enc",
+      "sha256": "455adbbd639b6425dafdd8528fb532cd50b5c26c87309a59bbefe3bc186d4f09"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUN1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/EUN1/MIDDLE.json.enc",
-      "sha256": "09574ee55102e158ba4d0ecb3e66a710529282ecbee2e4f0096286ef24d8cb37"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUN1/MIDDLE.json.enc",
+      "sha256": "ed311124662bb0826db958fdf2d123420119c2e60c20bedab9e7fc846c1ba962"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUN1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/EUN1/TOP.json.enc",
-      "sha256": "30612e76e4652c0ef405f12018a7928f3de2a47b984b656032abf7f48c14b0b1"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUN1/TOP.json.enc",
+      "sha256": "5b32672b5290bc64c1d07178afc50a54b3540dc56e5471d17edc44a9a7f6af06"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUN1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/EUN1/UTILITY.json.enc",
-      "sha256": "89e9022ca46cb725abfc80b03fb3ed7777699fdc0baa208f48090b81d6d6ff1c"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUN1/UTILITY.json.enc",
+      "sha256": "9a7b6fc85780da30d0ed289988d5c69653f8e62f19a0eaa606a49c351db1dc6b"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUW1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/EUW1/BOTTOM.json.enc",
-      "sha256": "f094eb6a6b2094dc9226f4534648ddc11557cdb3c9cea2523fb7ec826b7b971a"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUW1/BOTTOM.json.enc",
+      "sha256": "ab64f47562d502355691374cdb0a91125d530db9efa3f18b0da8d90a0f9c6612"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUW1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/EUW1/JUNGLE.json.enc",
-      "sha256": "f81ba866cfb778f7153821282a5b6216f50a54fa64e618421797619ffda49573"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUW1/JUNGLE.json.enc",
+      "sha256": "2a9e2a5b391400d0e0b63f007cc284b333178a052eb6461cb580bd8f36f7fc32"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUW1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/EUW1/MIDDLE.json.enc",
-      "sha256": "06b913dcf39408e929d10694da5cf20b922aa0b8ed10e3aa70462fd79fb18d59"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUW1/MIDDLE.json.enc",
+      "sha256": "97ca7dc1687a33007154cf2479e5478a7bd1461ab91cb844c16ee40b28964ba2"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUW1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/EUW1/TOP.json.enc",
-      "sha256": "2caeb29df9a4fcbdcc86025ba1d1d0a29480d9ac02f013c28870c686a1538c98"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUW1/TOP.json.enc",
+      "sha256": "4df4c03bfbcc1ed10e71baaed70597048544486e0b62a76cc7c3a156ab9ad3d7"
     },
     {
       "path": "exports/matchups_gold15/16.3/EUW1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/EUW1/UTILITY.json.enc",
-      "sha256": "240b303f2f6d8ec8b3e9eaba1b35bc2e40d5b811f4c28736f0ad8f8a32d0cd8c"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/EUW1/UTILITY.json.enc",
+      "sha256": "b34f8fe33830f7b1ffc68e2896a53c6db45ed600acda980709b69706fa0cc515"
     },
     {
       "path": "exports/matchups_gold15/16.3/KR/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/KR/BOTTOM.json.enc",
-      "sha256": "e97d450a21c6a8599247a11b73939388c736c8152f1004abe8692e9b0f8e5cdf"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/KR/BOTTOM.json.enc",
+      "sha256": "26baca7675489bb085ae807dc572e7bf0744010d0361dac955df2cc423154e19"
     },
     {
       "path": "exports/matchups_gold15/16.3/KR/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/KR/JUNGLE.json.enc",
-      "sha256": "a7c41a9ae7fcb5b6755a0f9a3b309ce2f747ab67afda3dce42244667175c68cc"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/KR/JUNGLE.json.enc",
+      "sha256": "d003ce0c339427f065faedb292fe8d752c3d4ee2d1e111986be975807d6b6945"
     },
     {
       "path": "exports/matchups_gold15/16.3/KR/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/KR/MIDDLE.json.enc",
-      "sha256": "717eea02b945dc6c65f4aa6a95fdf5934c2ce45a4f15d3771d696dc6f16160a4"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/KR/MIDDLE.json.enc",
+      "sha256": "073ea2cbe9431408e8f240cdad46bf7a39d3c19f0683b1b6b2e11a1b0d4a4257"
     },
     {
       "path": "exports/matchups_gold15/16.3/KR/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/KR/TOP.json.enc",
-      "sha256": "88e70e0a8d1e2f5f4680ddd1b15cc13bea1304dde94d8c4312561097bfad500c"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/KR/TOP.json.enc",
+      "sha256": "ef342521e559f776d86b14bc5f1456c59751f0ed20166de2525d1b5209ddd698"
     },
     {
       "path": "exports/matchups_gold15/16.3/KR/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/KR/UTILITY.json.enc",
-      "sha256": "04eef2b2cdec882dedddaf75b767bb83e50e4af1190445619d1686c60ca802f9"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/KR/UTILITY.json.enc",
+      "sha256": "5eb87994fcab7a486cf795c9d6698f7c4f4d668e5db385c486587650073683ae"
     },
     {
       "path": "exports/matchups_gold15/16.3/NA1/BOTTOM.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/NA1/BOTTOM.json.enc",
-      "sha256": "c6a63d35473e1444bcf56d57dc80e57fc741746e6e575a6b8f223526787dd2da"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/NA1/BOTTOM.json.enc",
+      "sha256": "cc033bb98157eb8b0573dd4e9ad3587da3b6e9f33a8c8a7c6f37bc90545f5034"
     },
     {
       "path": "exports/matchups_gold15/16.3/NA1/JUNGLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/NA1/JUNGLE.json.enc",
-      "sha256": "4504e4a2f67c78bb1b5ed8cd68ae75e62ca0ecff8c896ab2f7e939eb3dc02abf"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/NA1/JUNGLE.json.enc",
+      "sha256": "b9abe4a44b621ddc416f478b005f4e1fa4914e41124db499545b96c8975cd9a7"
     },
     {
       "path": "exports/matchups_gold15/16.3/NA1/MIDDLE.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/NA1/MIDDLE.json.enc",
-      "sha256": "14a2173967b4deb599248b8e054bd9fdfe868be2d6d23478b285b98ee80b600f"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/NA1/MIDDLE.json.enc",
+      "sha256": "c625961da7cf6e2f94e12cdf08c4b8869420b68edd7bbf157e3e9e3f9a370977"
     },
     {
       "path": "exports/matchups_gold15/16.3/NA1/TOP.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/NA1/TOP.json.enc",
-      "sha256": "5f9261c83688225e96fc8a5eec95f9ab2125efd57ea4903dc134fcfdfe6635a8"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/NA1/TOP.json.enc",
+      "sha256": "9d5d4c7640637d8e3071b4e6b27547a48428f778e10c5fcde5bc92a7da6e4984"
     },
     {
       "path": "exports/matchups_gold15/16.3/NA1/UTILITY.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/matchups_gold15/16.3/NA1/UTILITY.json.enc",
-      "sha256": "87e2a255b1deb7fd992d9cd31843157ddfcd708bd2d0c19ae451e535616ab13a"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/matchups_gold15/16.3/NA1/UTILITY.json.enc",
+      "sha256": "82461dfaaf1da7b007786bba369a6327035dd549ce30772867b37697179d4af8"
     },
     {
       "path": "exports/models/power_model_16.2_16.3.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/models/power_model_16.2_16.3.json.enc",
-      "sha256": "ac0c0df4ddeb389910762b51f3130c08471aef8ddb570c89cc339238902827af"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/models/power_model_16.2_16.3.json.enc",
+      "sha256": "f3ae893e1d66aca1e8d5608e22f7261332ad88dc89c4ac8ef68bda5c50431c38"
     },
     {
       "path": "exports/models/power_model_16.2_16.3_aug.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/models/power_model_16.2_16.3_aug.json.enc",
-      "sha256": "9cd66f3b69527851224fbbb40748668f53ca28bce1990c8c59aa3f6786f80fae"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/models/power_model_16.2_16.3_aug.json.enc",
+      "sha256": "a098a20911abef7315822b5aa891cf17af7e40ff02b73afe94b2b72122c63ed3"
     },
     {
       "path": "exports/models/spike_model_16.2_16.3.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/models/spike_model_16.2_16.3.json.enc",
-      "sha256": "c2e891a3266f120f41bed65ce542674f3c4b880ef1f578355d65a7b30ba5f900"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/models/spike_model_16.2_16.3.json.enc",
+      "sha256": "b9d490f880aa887e8bda55061cc4a2b7c34b56e76af1d10d17ad963bdc5f69bc"
     },
     {
       "path": "exports/rates/ban_counts.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/rates/ban_counts.json.enc",
-      "sha256": "7893751a8119898b17aecf9e55876077768670ebfa07ea4fa67e0097119eefc5"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/rates/ban_counts.json.enc",
+      "sha256": "c98776529e0a7c94f1b8bf6eda4ae2dbd44fd79ac081bf953c38e28683cd61fd"
     },
     {
       "path": "exports/rates/champion_rates.json.enc",
-      "url": "https://github.com/Xenti1/LeagueOverlayFiles/releases/download/data-latest/exports/rates/champion_rates.json.enc",
-      "sha256": "36922ab8859cf9057130801bf6fcd797e463e6cca059c10d8fea92bd4cf9d952"
+      "url": "https://raw.githubusercontent.com/Xenti1/Overlay/main/data-latest/exports/rates/champion_rates.json.enc",
+      "sha256": "55a08eef9612b2a8f6a86e289a6c664ccb631b1619b06e8457a6ff113516546a"
     }
   ]
 }
